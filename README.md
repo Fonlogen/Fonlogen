@@ -6,7 +6,7 @@ Hi! I'm Riccardo, a 22 years old guy based in Naples, Italy. I'm passionate of b
 
 <p align="left">
    <a href="https://github.com/Fonlogen">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kekko16004?color=green&logo=github&style=for-the-badge"/>
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Fonlogen?color=green&logo=github&style=for-the-badge"/>
    </a>
    <a href="https://x.com/Fonlogen">
       <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
