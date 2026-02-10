@@ -2,7 +2,7 @@
 
 **`Full-Stack Engineer | Hobby Game Developer | FiveM Developer`**
 
-Hi! I'm Riccardo, a 22 years old guy based in Naples, Italy. I'm passionate of building aesthetic things
+Hi! I'm Riccardo, a 23 years old guy based in Naples, Italy. I'm passionate of building aesthetic things
 
 <p align="left">
    <a href="https://github.com/Fonlogen">
