@@ -1,37 +1,88 @@
-## 👾 Fonlogen - Full-Stack Developer
-
-**`Full-Stack Engineer | Hobby Game Developer | FiveM Developer`**
-
-Hi! I'm Riccardo, a 23 years old guy based in Naples, Italy. I'm passionate of building aesthetic things
-
-<p align="left">
-   <a href="https://github.com/Fonlogen">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Fonlogen?color=green&logo=github&style=for-the-badge"/>
-   </a>
-   <a href="https://x.com/Fonlogen">
-      <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-   </a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e88&height=200&section=header&text=Fonlogen&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20FiveM%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Fonlogen header"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Fonlogen">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E88&center=true&vCenter=true&width=600&lines=Hi!+I'm+Riccardo+%F0%9F%91%8B;Full-Stack+Engineer+from+Naples+%F0%9F%87%AE%F0%9F%87%B9;Hobby+Game+Developer+%F0%9F%8E%AE;FiveM+Developer+%F0%9F%9A%97;I+love+building+aesthetic+things+%E2%9C%A8" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fonlogen"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Fonlogen?label=Followers&color=302b63&logo=github&style=for-the-badge"/></a>
+  <a href="https://x.com/Fonlogen"><img alt="Follow on X" src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Fonlogen&label=Profile%20views&color=ff2e88&style=for-the-badge"/>
+</p>
+
+---
+
+### 👾 About me
+
+```lua
+local riccardo = {
+    alias    = "Fonlogen",
+    age      = 23,
+    location = "Naples, Italy 🇮🇹",
+    role     = { "Full-Stack Engineer", "Hobby Game Developer", "FiveM Developer" },
+    passion  = "Building aesthetic things ✨",
+    os       = "Arch Linux btw 🐧",
+}
+```
 
 ---
 
 ### 💻 Tech Stack
 
-#### 🛠 Languages & Frameworks
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=flat&logo=typescript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="160"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,lua,cs,cpp,js,ts,html,css&perline=8" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,angular,svelte,vue,nodejs&perline=8" alt="Frameworks"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Game Dev</b></td>
+    <td><img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender&perline=8" alt="Game Development"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>OS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arch,windows,debian,kali,ubuntu&perline=8" alt="Operating Systems"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,vim,visualstudio,clion,androidstudio&perline=8" alt="Tools"/></td>
+  </tr>
+</table>
 
-- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Alpine](https://img.shields.io/badge/AlpineJS-2D3748?style=flat&logo=alpine.js&logoColor=white)
-#### 🖥 Tools & Environments
-- **Game Development:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-- **Operating Systems:** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A80030?style=flat&logo=debian&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-000000?style=flat&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-- **Utilities:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-51A00A?style=flat&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-<br/>
+<sub>…and also <img src="https://img.shields.io/badge/AlpineJS-2D3748?style=flat&logo=alpine.js&logoColor=8BC0D0" alt="AlpineJS" align="center"/></sub>
 
 ---
 
-### 📈 Stats & Projects
+### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fonlogen&show_icons=true&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fonlogen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonlogen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fonlogen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fonlogen&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fonlogen&theme=react-dark&bg_color=0d1117&color=ff2e88&line=302b63&point=ffffff&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is poetry — make it look good.”</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer"/>
+</p>
