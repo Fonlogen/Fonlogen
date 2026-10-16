@@ -60,8 +60,6 @@ local riccardo = {
   </tr>
 </table>
 
-<sub>…and also <img src="https://img.shields.io/badge/AlpineJS-2D3748?style=flat&logo=alpine.js&logoColor=8BC0D0" alt="AlpineJS" align="center"/></sub>
-
 ---
 
 ### 📈 GitHub Stats
