@@ -45,7 +45,10 @@ local riccardo = {
   </tr>
   <tr>
     <td align="center"><b>Game Dev</b></td>
-    <td><img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender&perline=8" alt="Game Development"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender&perline=8" alt="Game Development" align="center"/>
+      <a href="https://github.com/NucleonEngine"><img src="https://avatars.githubusercontent.com/u/343406235?v=4" alt="Nucleon Engine" title="Nucleon Engine" width="48" height="48" align="center"/></a>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>OS</b></td>
